@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hello freind
+=======
+helle freind
+c'est hello friend 
+ca va hamid ?
+>>>>>>> 94e5493ddfba723848a6909a3a672b110ffc6618
+git 
